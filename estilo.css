@@ -1,0 +1,43 @@
+body {
+background: rgb(206, 165, 245);
+font: normal 20pt Arial;
+
+}
+header{
+    color: white;
+    text-align: center;
+
+}
+section {
+    background: white;
+    border-radius: 15px;
+    padding: 15px;
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.404);
+
+}
+
+img {
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+    
+}
+
+div {
+    text-align: center;
+    padding: 7px;
+}
+
+.estiloTexto {
+    font: normal 13pt Arial;
+    
+}
+/*footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}*/
